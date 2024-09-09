@@ -6,7 +6,7 @@ A simple script that monitors the rolling deals on BJJHQ. I don't like checking 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bjjhqrolling.git
+   git clone https://github.com/wdiam/bjjhqrolling.git
    ```
 
 2. Install the required dependencies:
