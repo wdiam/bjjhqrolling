@@ -1,0 +1,5 @@
+[Twilio]
+account_sid = your_account_sid
+auth_token = your_auth_token
+from_number = +1your_from_number
+to_number = +1your_to_number
